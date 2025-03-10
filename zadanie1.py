@@ -9,7 +9,7 @@ def oblicz(J, p1, p2, x1, x2):
     
 
 def main():
-    J = int(input("Podaj budżet: "))
+    J = float(input("Podaj budżet: "))
     p1 = float(input("Podaj cenę roweru: "))
     p2 = float(input("Podaj cenę butelki koniaku: "))
     x1 = float(input("Podaj liczbę rowerów, które chcesz kupić: "))
