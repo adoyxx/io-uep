@@ -72,7 +72,8 @@ OUTPUT:
 Pozostałe wymagania:
 - Wartości podawane są dynamicznie przez użytkownika
 Kod do uzupełnienia:
-'''Python
+
+'''python
 import tensorflow as tf
 
 def oblicz(J, p1, p2, x1, x2):
