@@ -73,7 +73,8 @@ Znany mikroekonomista ma do dyspozycji budżet w wysokości J, który musi rozdz
 **OUTPUT**:
 - boolean czy_wystarczylo
 - float U 
-Pozostałe wymagania:
+
+**Pozostałe wymagania:**
 - Wartości podawane są dynamicznie przez użytkownika
 
 **Kod do uzupełnienia:**
